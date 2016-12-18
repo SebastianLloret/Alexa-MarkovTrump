@@ -1,2 +1,2 @@
 # Alexa-MarkovTrump
-Uses a Markov chain to approximate Trump's speech.
+Uses the Alexa platform to ask Trump policy questions.
